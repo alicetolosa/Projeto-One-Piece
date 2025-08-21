@@ -8,6 +8,8 @@ Este é um projeto visual interativo inspirado no anime **One Piece**, onde o us
 
 [<img src="./Animação-de-tela.gif">](https://alicetolosa.github.io/Projeto-One-Piece/)
 
+            Clique no Gif da imagem e acesse o meu meu projeto 👆👆
+
 ---
 
 ## 🛠️ Tecnologias utilizadas
